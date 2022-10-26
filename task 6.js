@@ -98,7 +98,4 @@ else if(a7==19){
         res2=`nine`;
     }
 }
-
-
- 
 console.log(`Our number is: ${res1} ${res2}`);
